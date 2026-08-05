@@ -19,7 +19,7 @@ OctoAcme follows an iterative, customer-first approach with clear ownership and 
 
 - Initiation: Start with a project one-pager to confirm the problem, measurable outcome, stakeholders, and go/no-go decision criteria.
 - Planning: Break approved initiatives into shippable increments, capture acceptance criteria and estimates, define the Definition of Done, and map milestones and releases.
-- Execution: Use a project board (Backlog → Ready → In Progress → In Review → QA → Done), hold regular standups and delivery syncs, follow CI-driven PR policies, and track progress using velocity and burndown.
+- Execution: Use a project board (Backlog → Ready → In Progress → In Review → QA → Done), hold regular standups and delivery syncs, follow CI-driven PR policies, and track progress using velocity and burndown charts.
 - Release & Deployment: Follow checklist-driven deployments with pre-release checks, smoke tests, rollback plans, and post-deploy verification.
 - Risk Management & Communication: Track risks in a risk register, update weekly, and escalate via defined paths; use templates for stakeholder/status updates and incident communications.
 - Retrospectives & Continuous Improvement: Run timeboxed retrospectives, prioritize a few actionable items, add improvements to the backlog, and measure impact.
@@ -29,6 +29,6 @@ How to use this README:
 
 - Click the links above to view the detailed guidance for each phase.
 - Use the Project One-pager and Backlog templates when initiating and planning work.
-- Propose changes to these process docs using the “Add Content to Project Management Process Docs” issue template (see .github/ISSUE_TEMPLATE).
+- Propose changes to these process docs using the "Add Content to Project Management Process Docs" issue template (see .github/ISSUE_TEMPLATE).
 
 (If you’d like a shorter one-paragraph summary or other formatting, tell me which style you prefer.)
